@@ -1,4 +1,4 @@
-# 第1部「標準偏差から検定・区間推定まで」
+# 第1部「標準偏差から検定・区間推定まで」a
 ## 第0+1講
 本書の最終目標：「**データ分布・標準偏差・平均値が不明な状態で、母集団を推定する**」
 ```mermaid
@@ -403,5 +403,5 @@ $$V=\bigl(\frac{x_1 - \mu}{\sigma}\bigr)^2+\bigl(\frac{x_2 - \mu}{\sigma}\bigr)^
 ## 第18講
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTQ2NzgwNl19
+eyJoaXN0b3J5IjpbNTc5MjM0MzIxXX0=
 -->

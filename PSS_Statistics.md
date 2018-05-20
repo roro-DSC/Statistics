@@ -403,7 +403,7 @@ $$V=\bigl(\frac{x_1 - \mu}{\sigma}\bigr)^2+\bigl(\frac{x_2 - \mu}{\sigma}\bigr)^
 ## 第18講
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDM1ODI5MSwtMzIwODc1MzQ2LC02OD
-AzNTgyOTEsLTMyMDg3NTM0NiwtMTc4ODA3MzU5LC02ODAzNTgy
-OTFdfQ==
+eyJoaXN0b3J5IjpbLTMyMDg3NTM0NiwtNjgwMzU4MjkxLC0zMj
+A4NzUzNDYsLTY4MDM1ODI5MSwtMzIwODc1MzQ2LC0xNzg4MDcz
+NTksLTY4MDM1ODI5MV19
 -->
